@@ -1,7 +1,7 @@
 body {
     text-align: center;
     margin:0px;
-    background: #ffffff;
+    background: #adb898;
     background-attachment: fixed;
 }
 
@@ -31,10 +31,12 @@ a {
     padding: 5px 10px;
 }
 
-.main {
+.wrapper {
+    background: #ffffff;
     border-radius: 20px;
     margin: 10px auto;
     max-width: 1000px;
+    padding: 20px;
     width: 70%;
 }
 
@@ -53,6 +55,7 @@ a {
     align-items: flex-start;
     justify-content: center;
 
+    /*background: #663e50;*/
     border-top: 1px solid #c9cdd0;
     font-size: 12pt;
 }
