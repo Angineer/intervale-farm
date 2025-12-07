@@ -103,6 +103,11 @@ a {
     justify-content: center;
 }
 
+.recipe {
+    padding: 30px;
+    text-align: left;
+}
+
 /*
  ======
  Footer

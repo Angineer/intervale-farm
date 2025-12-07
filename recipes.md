@@ -1,6 +1,6 @@
 ---
 title: Recipes
-layout: default
+layout: recipe
 ---
 
 ## Bok Choy Salad
@@ -21,6 +21,8 @@ cook until it boils...let cool.
 When cool, blend all the above with as much or as little of the dressing.
 
 ## Peanut Slaw - Salade de Choux Aux Cacahuttes - 6 servings
+From *The Secret Life in Paris* by David Lebovitze
+
 * 1/4 cup of smooth peanut butter
 * 1 garlic clove, peeled and finely chopped
 * 2 TBLS peanut or vegetable oil
@@ -38,5 +40,3 @@ When cool, blend all the above with as much or as little of the dressing.
 2. Toss in peanuts, radishes, carrot, parsley, cabbage, mix until everything is coated. Taste, then add a bit of salt or more lemon juice , to taste.
 
 Variations : Substitute roasted almonds or cashews for the peanuts or swap 1 TBLS of dark sesame oil for 1 TBLS of the peanut oil and add a TBLS of toasted sesame seeds to the salad.
-
-From : The Secret Life in Paris by David Lebovitze
