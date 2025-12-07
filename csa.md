@@ -17,3 +17,5 @@ Our CSA Consists weekly on farm pickups, June thru October. We offer two share s
 * Medium Share: $450.00 This option consists of 7-10 items each week. A good amount for roommates or couples to share or a veggie enthusiastic individual.
 
 Additionally with every share we’ll continue to offer Maureen's beautiful bouquets, but on a bi-weekly basis, with a bouquet of mixed herbs or a mix of hot peppers or maybe even a pint of neighboring farm's fruit on the off weeks.
+
+If you're looking for some inspiration about how to cook the different veggies included in your CSA share, <a href="recipes">here are some options</a>.

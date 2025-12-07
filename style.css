@@ -23,14 +23,7 @@ a {
 }
 
 
-.navigation {
-    border-bottom: 1px solid #c9cdd0;
-}
-
-.spacer {
-    padding: 5px 10px;
-}
-
+/* Wrapper includes header, content, and footer */
 .wrapper {
     background: #ffffff;
     border-radius: 20px;
@@ -39,6 +32,66 @@ a {
     padding: 20px;
     width: 70%;
 }
+
+
+/*
+ ========================
+ Navigation with dropdown
+ ========================
+*/
+.navigation {
+    border-bottom: 1px solid #c9cdd0;
+}
+
+.navigation ul {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+    position: relative;
+    text-align: center;
+}
+
+.navigation ul li {
+    display:inline-block;
+    text-align: left;
+}
+
+.navigation a {
+  display:block;
+  padding:0 10px;
+  font-size:20px;
+  line-height: 60px;
+  text-decoration:none;
+}
+
+/* Hide Dropdowns by Default */
+.navigation ul ul {
+  display: none;
+  background: #ffffff;
+  padding: 0px;
+  position: absolute;
+  top: 60px;
+}
+
+/* Display Dropdowns on Hover */
+.navigation ul li:hover > ul {
+  display:inherit;
+}
+
+/* First Tier Dropdown */
+.navigation ul ul li {
+  width:200px;
+  float:none;
+  display:list-item;
+  position: relative;
+  text-align: left;
+}
+
+/*
+ =======
+ Content
+ =======
+*/
 
 .inline-image {
     padding: 10px;
@@ -49,6 +102,12 @@ a {
     gap: 40px;
     justify-content: center;
 }
+
+/*
+ ======
+ Footer
+ ======
+*/
 
 .footer {
     display: flex;
