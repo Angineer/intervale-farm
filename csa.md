@@ -3,7 +3,7 @@ title: CSA
 layout: default
 ---
 
-Our CSA is full for this for the 2025 Season, Sorry to have missed you!
+Our CSA is full for the 2025 season--sorry to have missed you!
 
 If you were a member from last year please give Ben a call 413-548-6002.
 
