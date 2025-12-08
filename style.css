@@ -1,15 +1,8 @@
 body {
     text-align: center;
     margin:0px;
-    background: #adb898;
+    background: #bfd3f8;
     background-attachment: fixed;
-}
-
-h1 {
-    color: orangered;
-    font-family: Courgette;
-    font-size: 30pt;
-    margin:  0px;
 }
 
 h3 {
@@ -26,11 +19,11 @@ a {
 /* Wrapper includes header, content, and footer */
 .wrapper {
     background: #ffffff;
-    border-radius: 20px;
+    /*border-radius: 20px;
     margin: 10px auto;
     max-width: 1000px;
     padding: 20px;
-    width: 70%;
+    width: 70%;*/
 }
 
 
@@ -39,8 +32,8 @@ a {
  Navigation with dropdown
  ========================
 */
-.navigation {
-    border-bottom: 1px solid #c9cdd0;
+.header, .navigation {
+    background: #bfd3f8;
 }
 
 .navigation ul {
@@ -67,7 +60,8 @@ a {
 /* Hide Dropdowns by Default */
 .navigation ul ul {
   display: none;
-  background: #ffffff;
+  background: #bfd3f8;
+  border: 1px solid grey;
   padding: 0px;
   position: absolute;
   top: 60px;
@@ -93,6 +87,17 @@ a {
  =======
 */
 
+.content {
+    max-width: 1000px;
+    margin: auto;
+    width: 80%;
+}
+
+.recipe {
+    padding: 30px;
+    text-align: left;
+}
+
 .inline-image {
     padding: 10px;
 }
@@ -101,11 +106,6 @@ a {
     display: flex;
     gap: 40px;
     justify-content: center;
-}
-
-.recipe {
-    padding: 30px;
-    text-align: left;
 }
 
 /*
@@ -119,8 +119,7 @@ a {
     align-items: flex-start;
     justify-content: center;
 
-    /*background: #663e50;*/
-    border-top: 1px solid #c9cdd0;
+    background: #bfd3f8;
     font-size: 12pt;
 }
 
