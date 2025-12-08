@@ -1,7 +1,7 @@
 body {
     text-align: center;
     margin:0px;
-    background: #bfd3f8;
+    background: #333333;
     background-attachment: fixed;
 }
 
@@ -32,8 +32,12 @@ a {
  Navigation with dropdown
  ========================
 */
-.header, .navigation {
-    background: #bfd3f8;
+.header, .navigation, .navigation ul ul {
+    background: #ffffff;
+}
+
+.navigation {
+    border-bottom: 1px solid lightgray;
 }
 
 .navigation ul {
@@ -60,7 +64,6 @@ a {
 /* Hide Dropdowns by Default */
 .navigation ul ul {
   display: none;
-  background: #bfd3f8;
   border: 1px solid grey;
   padding: 0px;
   position: absolute;
@@ -119,7 +122,8 @@ a {
     align-items: flex-start;
     justify-content: center;
 
-    background: #bfd3f8;
+    background: #333333;
+    color: #ffffff;
     font-size: 12pt;
 }
 
