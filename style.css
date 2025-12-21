@@ -28,29 +28,30 @@ a {
 
 
 /*
- ========================
- Navigation with dropdown
- ========================
+ ===========
+ Navigation
+ ===========
 */
-.header, .navigation, .navigation ul ul {
+.header, .navigation {
     background: #ffffff;
 }
 
-.navigation {
+.header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
     border-bottom: 1px solid lightgray;
 }
 
-.navigation ul {
-    list-style: none;
-    margin: 0px;
-    padding: 0px;
-    position: relative;
-    text-align: center;
+.logo {
+    max-width: 50%;
 }
 
-.navigation ul li {
-    display:inline-block;
-    text-align: left;
+.navigation {
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .navigation a {
@@ -61,29 +62,6 @@ a {
   text-decoration:none;
 }
 
-/* Hide Dropdowns by Default */
-.navigation ul ul {
-  display: none;
-  border: 1px solid grey;
-  padding: 0px;
-  position: absolute;
-  top: 60px;
-}
-
-/* Display Dropdowns on Hover */
-.navigation ul li:hover > ul {
-  display:inherit;
-}
-
-/* First Tier Dropdown */
-.navigation ul ul li {
-  width:200px;
-  float:none;
-  display:list-item;
-  position: relative;
-  text-align: left;
-}
-
 /*
  =======
  Content
@@ -91,7 +69,7 @@ a {
 */
 
 .content {
-    max-width: 1000px;
+    max-width: 1200px;
     margin: auto;
     width: 80%;
 }
@@ -122,11 +100,29 @@ a {
     align-items: flex-start;
     justify-content: center;
 
+    border-top: 1px solid lightgray;
+    color: #b54245;
+    font-weight: bold;
+
+    /*
     background: #333333;
     color: #ffffff;
     font-size: 12pt;
+    */
 }
 
 .footer-element {
-    padding: 15px 15px 0px 15px;
+    padding: 15px;
+}
+
+@media (max-width: 800px) {
+    .header {
+        flex-direction: row;
+}
+    .navigation {
+        flex-direction: column;
+    }
+    .navigation a {
+	line-height: 30px;
+    }
 }
