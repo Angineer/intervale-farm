@@ -1,26 +1,21 @@
 ---
 title: Farmers Markets
-layout: default
+layout: center
 ---
 
 ## Northampton Farmer's Market
+Saturdays 8 A.M. - 1 P.M.
 
-Opening Saturday April 26!
+April - November
 
-Saturdays April - November
+Gothic Street, Northampton, MA
 
-Gothic Street Northampton
-
-Saturdays 8:00 A.M. till 1:00 P.M.
 
 ## Florence Farmer's Market
-
-Opening Wednesday April 30th!
+Wednesdays 2 P.M. - 6 P.M.
 
 May - October
 
-Florence Civic Center
-
-Wednesdays 2 - 6 P.M.
+Florence Civic Center, Florence, MA
 
 <a href="https://www.florencefarmersmarket.com">www.florencefarmersmarket.com</a>

@@ -1,9 +1,8 @@
 ---
 title: About Us
-layout: default
+layout: left
 ---
-
-<h2>History of Intervale Farm</h2>
+## History of Intervale Farm
 
 <img class="inline-image" src="img/picking-up-hay.jpg" style="float: right">
 

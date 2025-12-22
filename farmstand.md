@@ -1,8 +1,10 @@
 ---
 title: Farmstand
-layout: default
+layout: center
 ---
+<img class="inline-image" src="img/farm-stand.jpg" style="width: 100%;">
+
 ### Hours
 Monday - Friday 9 A.M. to 6 P.M.<br>
 Saturday 9 A.M. to 5 P.M.<br>
-Closed Sundays starting June 15, 2025
+Closed Sundays

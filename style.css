@@ -1,11 +1,10 @@
 body {
-    background: #ffcbb3;
     margin: 0px;
-    text-align: center;
+    text-align: left;
 }
 
-h3 {
-    margin: 0px;
+h2, h3 {
+    margin: 0px 0px 15px 0px;
 }
 
 a {
@@ -14,8 +13,22 @@ a {
     text-decoration: none;
 }
 
+p {
+    margin: 0px 0px 15px 0px;
+}
+
+/*
+ ==================
+ Background Colors
+ ==================
+*/
+
 /* Wrapper includes header, content, and footer */
 .wrapper {
+    background: #ffffff;
+}
+
+body, .header, .navigation, .footer, .content {
     background: #ffffff;
 }
 
@@ -24,12 +37,10 @@ a {
  Header
  =======
 */
-.header, .navigation {
-    background: #ffcbb3;
-}
 
 .header {
     border-bottom: 1px solid lightgray;
+    text-align: center;
 }
 
 .logo {
@@ -59,17 +70,19 @@ a {
  =======
 */
 
-.content {
+.content-left, .content-center {
+    clear: both;
     margin: auto;
-    width: 80%;
+    padding: 15px;
+    width: 70%;
 }
 
-.recipe {
-    padding: 30px;
-    text-align: left;
+.content-center {
+    text-align: center;
 }
 
 .inline-image {
+    max-width: 100%;
     padding: 10px;
 }
 
@@ -90,10 +103,10 @@ a {
     align-items: center;
     justify-content: center;
 
-    background: #ffcbb3;
     border-top: 1px solid lightgray;
     color: #b54245;
     font-weight: bold;
+    text-align: center;
 }
 
 .footer-element {
@@ -101,6 +114,10 @@ a {
 }
 
 @media (max-width: 800px) {
+    .content {
+        width: 100%;
+    }
+
     .navigation a {
 	line-height: 35px;
     }

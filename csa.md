@@ -1,6 +1,6 @@
 ---
 title: CSA
-layout: default
+layout: left
 ---
 
 Our CSA is full for the 2025 season--sorry to have missed you!
@@ -18,4 +18,5 @@ Our CSA Consists weekly on farm pickups, June thru October. We offer two share s
 
 Additionally with every share we’ll continue to offer Maureen's beautiful bouquets, but on a bi-weekly basis, with a bouquet of mixed herbs or a mix of hot peppers or maybe even a pint of neighboring farm's fruit on the off weeks.
 
+### Recipes
 If you're looking for some inspiration about how to cook the different veggies included in your CSA share, <a href="recipes">here are some options</a>.

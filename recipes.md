@@ -1,6 +1,6 @@
 ---
 title: Recipes
-layout: recipe
+layout: left
 ---
 
 ## Bok Choy Salad
