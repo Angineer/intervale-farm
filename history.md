@@ -3,8 +3,7 @@ title: About Us
 layout: left
 ---
 ## History of Intervale Farm
-
-<img class="inline-image" src="img/picking-up-hay.jpg" style="float: right">
+<img class="inline-image" src="img/picking-up-hay.jpg" style="float: right; width: 40%">
 
 Intervale Farm has been part of the Tracy Family since 1936 when it was purchased by Rick's grandfather, Dick Tracy.
 
@@ -16,17 +15,17 @@ We began our CSA share program in 2002 and every year offer a variety of fruits,
 
 Our farm stand offers a place to pick up eggs, seasonal produce and flowers.
 
-<h2>Autumn at Intervale Farm</h2>
+<h2>Autumn On Intervale Farm</h2>
 
-A short montage of the Tracy Family farm in Westhampton, MA, being farmed by its third generation.
+A short montage of life on the farm. Video was produced by our nephew Ben Geary.
 
-Video was produced by our nephew Ben Geary.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NETZKRjFgfs?si=EXqjhAlaWIxvFLl-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="iframe-wrapper">
+    <iframe src="https://www.youtube.com/embed/NETZKRjFgfs?si=EXqjhAlaWIxvFLl-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 <h2>Memberships and Awards</h2>
 
 <div class="image-row">
-    <a href="https://localflowers.org"><img src="img/ascfg-logo.png" style="max-width: 200px;"></a>
-    <a href="http://hgf.org/programs/local-farmer-awards"><img src="img/logo-farmer-awards.png" style="max-width: 200px;"></a>
+    <a href="https://localflowers.org" style="width: 40%; max-width: 150px;"><img src="img/ascfg-logo.png" style="width: 100%;"></a>
+    <a href="http://hgf.org/programs/local-farmer-awards" style="width: 40%; max-width: 150px;"><img src="img/logo-farmer-awards.png" style="width: 100%;"></a>
 </div>

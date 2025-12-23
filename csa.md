@@ -2,12 +2,13 @@
 title: CSA
 layout: left
 ---
+<img class="inline-image" src="img/veggies-and-flowers.png" style="float: right; width: 40%">
 
 Our CSA is full for the 2025 season--sorry to have missed you!
 
 If you were a member from last year please give Ben a call 413-548-6002.
 
-If you're a new prospective member and would like to be on our January mailing list for the 2026 season please email Ben at benatintervale@gmail.com
+If you're a new prospective member and would like to be on our January mailing list for the 2026 season please email Ben at <a href="mailto:benatintervale@gmail.com">benatintervale@gmail.com</a>
 
 Intervale Farm CSA is a twenty week share program. This is our 24th year . We offer fresh produce, herbs and flowers on a weekly basis. Farm eggs are available at pick up . This season the CSA will be managed by Ben Geary who has worked with Rick and I for several years.
 
