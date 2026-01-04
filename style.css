@@ -88,15 +88,23 @@ body, .header, .navigation, .footer, .content {
     text-align: center;
 }
 
-.inline-image {
-    max-width: 100%;
-    padding: 10px;
+.row-image {
+    width: 30%;
+}
+
+.right-image {
+    float: right;
+    padding: 15px;
+    width: 40%;
 }
 
 .image-row {
     display: flex;
-    gap: 20px;
+    gap: 10px;
+
     justify-content: center;
+    margin: 10px;
+    width: 100%;
 }
 
 .iframe-wrapper {
@@ -118,6 +126,7 @@ body, .header, .navigation, .footer, .content {
     justify-content: center;
 
     border-top: 1px solid lightgray;
+    clear: both;
     color: #b54245;
     font-weight: bold;
     text-align: center;

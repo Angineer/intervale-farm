@@ -2,7 +2,9 @@
 title: Farmstand
 layout: center
 ---
-<img class="inline-image" src="img/farm-stand.jpg" style="width: 100%;">
+<img src="img/farm-stand.jpg" style="width: 100%;">
+
+Our farm stand is self-serve. You can find plants and produce in season, as well as eggs year-round.
 
 ### Hours
 Monday - Friday 9 A.M. to 6 P.M.<br>

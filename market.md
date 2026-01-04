@@ -2,6 +2,7 @@
 title: Farmers Markets
 layout: center
 ---
+<img src="img/market-banner.jpg" style="width: 100%;">
 
 ## Northampton Farmer's Market
 Saturdays 8 A.M. - 1 P.M.
