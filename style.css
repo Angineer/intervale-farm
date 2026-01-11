@@ -35,7 +35,7 @@ iframe {
     background: #ffffff;
 }
 
-body, .header, .navigation, .footer, .content {
+body, .header, .navigation, .footer, {
     background: #ffffff;
 }
 
@@ -81,7 +81,7 @@ body, .header, .navigation, .footer, .content {
     margin: auto;
     max-width: 1000px;
     padding: 15px;
-    width: 70%;
+    width: 90%;
 }
 
 .content-center {
@@ -137,10 +137,6 @@ body, .header, .navigation, .footer, .content {
 }
 
 @media (max-width: 800px) {
-    .content {
-        width: 100%;
-    }
-
     .navigation a {
 	line-height: 35px;
     }
