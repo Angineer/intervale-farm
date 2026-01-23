@@ -9,4 +9,4 @@ Our farm stand is self-serve. You can find plants and produce in season, as well
 ### Hours
 Monday - Friday 9 A.M. to 6 P.M.<br>
 Saturday 9 A.M. to 5 P.M.<br>
-Closed Sundays
+Sundays 1 P.M. to 5 P.M. (May and June only)

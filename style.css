@@ -94,7 +94,7 @@ body, .header, .navigation, .footer, {
 
 .right-image {
     float: right;
-    padding: 15px;
+    padding: 0px 0px 15px 15px;
     width: 40%;
 }
 
@@ -112,6 +112,10 @@ body, .header, .navigation, .footer, {
     margin: 10px auto;
     width: 80%;
     padding-top: 45%;
+}
+
+.clearer {
+    clear: both;
 }
 
 /*
