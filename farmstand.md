@@ -6,6 +6,8 @@ layout: center
 
 Our farm stand is self-serve. You can find plants and produce in season, as well as eggs year-round.
 
+Opening day for the 2026 season is May 4th.
+
 ### Hours
 Monday - Friday 9 A.M. to 6 P.M.<br>
 Saturday 9 A.M. to 5 P.M.<br>

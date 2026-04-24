@@ -8,6 +8,6 @@ Intervale Farm is a small family farm located in Westhampton MA. Our vision is t
 We also do flowers for weddings, anniversaries and other special events. See the specialty flowers page for more details.
 
 <div style="text-align: center;">
-<a href="http://hgf.org/programs/local-farmer-awards"><img src="img/logo-farmer-awards.png" style="width: 150px;"></a>
+<a href="https://hgcf.org/hgcf-programs/local-farmer-awards"><img src="img/logo-farmer-awards.png" style="width: 150px;"></a>
 </div>
 
